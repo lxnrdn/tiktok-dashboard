@@ -6,28 +6,28 @@
   "tier2_count": 5,
   "tier3_count": 4,
   "tier4_count": 2,
-  "avg_commission": 12.8,
-  "potential_earnings": "Rp 4.250.000",
+  "avg_commission": 12.5,
+  "potential_earnings": "Rp 2.5M - 8M/bulan",
   "categories": {
     "fashion_wanita": {
       "label": "Fashion Wanita",
       "count": 5,
-      "color": "#f093fb"
+      "color": "#667eea"
     },
     "aksesoris": {
       "label": "Aksesoris",
       "count": 4,
-      "color": "#4facfe"
+      "color": "#764ba2"
     },
     "hijab": {
       "label": "Hijab & Muslim",
       "count": 3,
-      "color": "#43e97b"
+      "color": "#f093fb"
     },
     "tas_sepatu": {
       "label": "Tas & Sepatu",
       "count": 3,
-      "color": "#fa709a"
+      "color": "#43e97b"
     }
   },
   "daily_trends": [
@@ -41,7 +41,7 @@
     },
     {
       "date": "05 Mar",
-      "avg_score": 58
+      "avg_score": 68
     },
     {
       "date": "06 Mar",
@@ -53,174 +53,177 @@
     },
     {
       "date": "08 Mar",
-      "avg_score": 78
+      "avg_score": 72
     },
     {
       "date": "09 Mar",
-      "avg_score": 82
+      "avg_score": 76
     }
   ],
   "products": [
     {
-      "id": "prod_001",
-      "name": "Dress Brukat Premium Import",
-      "price": 189000,
-      "sold_30d": 12450,
+      "id": "prod-001",
+      "name": "Dress Midi Floral Korea Style",
+      "price": 89000,
+      "sold_30d": 15200,
       "rating": 4.8,
-      "review_count": 3240,
-      "commission_rate": 15.0,
-      "creator_count": 342,
-      "category": "fashion_wanita",
+      "review_count": 3200,
+      "commission_rate": 15,
+      "creator_count": 245,
       "affiliate_score": 92,
       "tier": 1,
+      "category": "fashion_wanita",
       "viral_flags": [
         "VIRAL_VIDEO",
         "TRENDING_HASHTAG"
       ],
       "score_breakdown": {
         "commission": 28,
-        "demand": 23,
-        "velocity": 18,
-        "competition": 13,
-        "quality": 10
-      },
-      "content_strategy": {
-        "format": "OOTD Transition Video",
-        "hook": "Dress brukat cuma 189rb tapi kelihatan 500rb!",
-        "duration": "15-30 detik",
-        "hashtags": [
-          "#DressBrukat",
-          "#OOTDIndonesia",
-          "#FashionMurah",
-          "#DressViral"
-        ],
-        "best_time": "19:00-21:00 WIB"
-      },
-      "product_url": "https://tokopedia.link/dress-brukat-001"
-    },
-    {
-      "id": "prod_002",
-      "name": "Tas Selempang Wanita Viral Korea",
-      "price": 79000,
-      "sold_30d": 18900,
-      "rating": 4.7,
-      "review_count": 5120,
-      "commission_rate": 18.0,
-      "creator_count": 521,
-      "category": "tas_sepatu",
-      "affiliate_score": 95,
-      "tier": 1,
-      "viral_flags": [
-        "VIRAL_VIDEO",
-        "TRENDING_HASHTAG",
-        "LOW_COMPETITION"
-      ],
-      "score_breakdown": {
-        "commission": 30,
-        "demand": 25,
-        "velocity": 19,
-        "competition": 14,
-        "quality": 7
-      },
-      "content_strategy": {
-        "format": "Unboxing + Review",
-        "hook": "Tas 79rb yang bikin kamu terlihat mahal!",
-        "duration": "30-60 detik",
-        "hashtags": [
-          "#TasViral",
-          "#TasKorea",
-          "#TasMurah",
-          "#OOTD"
-        ],
-        "best_time": "12:00-14:00 WIB"
-      },
-      "product_url": "https://tokopedia.link/tas-selempang-002"
-    },
-    {
-      "id": "prod_003",
-      "name": "Hijab Pashmina Plisket Premium",
-      "price": 45000,
-      "sold_30d": 25600,
-      "rating": 4.9,
-      "review_count": 8900,
-      "commission_rate": 12.0,
-      "creator_count": 890,
-      "category": "hijab",
-      "affiliate_score": 88,
-      "tier": 1,
-      "viral_flags": [
-        "TRENDING_HASHTAG"
-      ],
-      "score_breakdown": {
-        "commission": 22,
         "demand": 24,
-        "velocity": 20,
+        "velocity": 18,
         "competition": 12,
         "quality": 10
       },
       "content_strategy": {
-        "format": "Tutorial Hijab Style",
-        "hook": "1 hijab 10 style! Pashmina plisket anti ribet",
-        "duration": "30-45 detik",
+        "format": "OOTD Transition + Try-on Haul",
+        "hook": "Dress Korea viral di TikTok cuma 89rb? Aku buktiin!",
+        "duration": "15-30 detik",
+        "best_time": "19:00 - 21:00 WIB",
         "hashtags": [
-          "#HijabPlisket",
-          "#TutorialHijab",
-          "#HijabStyle",
-          "#OOTDH hijab"
-        ],
-        "best_time": "07:00-09:00 WIB"
+          "#DressKorea",
+          "#OOTDIndonesia",
+          "#FashionTikTok",
+          "#StyleHaul",
+          "#DressViral"
+        ]
       },
-      "product_url": "https://tokopedia.link/hijab-plisket-003"
+      "product_url": "https://tokopedia.link/example1"
     },
     {
-      "id": "prod_004",
-      "name": "Kalung Titanium Anti Karat Trendy",
-      "price": 35000,
-      "sold_30d": 31200,
-      "rating": 4.6,
-      "review_count": 4500,
-      "commission_rate": 20.0,
-      "creator_count": 210,
-      "category": "aksesoris",
-      "affiliate_score": 90,
+      "id": "prod-002",
+      "name": "Kalung Layer Gold Titanium Anti Karat",
+      "price": 45000,
+      "sold_30d": 22800,
+      "rating": 4.9,
+      "review_count": 5100,
+      "commission_rate": 20,
+      "creator_count": 180,
+      "affiliate_score": 89,
       "tier": 1,
+      "category": "aksesoris",
       "viral_flags": [
-        "LOW_COMPETITION",
-        "VIRAL_VIDEO"
+        "VIRAL_VIDEO",
+        "LOW_COMPETITION"
       ],
       "score_breakdown": {
         "commission": 30,
         "demand": 22,
         "velocity": 17,
-        "competition": 14,
+        "competition": 13,
         "quality": 7
       },
       "content_strategy": {
-        "format": "Before-After Styling",
-        "hook": "Kalung 35rb yang upgrade penampilan kamu 100%!",
+        "format": "Before-After Styling + Close-up Detail",
+        "hook": "Kalung 45rb tapi keliatan kayak 450rb? Anti karat lagi!",
         "duration": "15-20 detik",
+        "best_time": "12:00 - 14:00 WIB",
         "hashtags": [
           "#KalungViral",
-          "#AksesorisMusrah",
-          "#Titanium",
-          "#StyleTips"
-        ],
-        "best_time": "19:00-21:00 WIB"
+          "#AksesorisKorea",
+          "#JewelryTikTok",
+          "#GoldLayer",
+          "#OOTD"
+        ]
       },
-      "product_url": "https://tokopedia.link/kalung-titanium-004"
+      "product_url": "https://tokopedia.link/example2"
     },
     {
-      "id": "prod_005",
-      "name": "Gamis Ceruty Babydoll Terbaru",
-      "price": 165000,
-      "sold_30d": 8900,
+      "id": "prod-003",
+      "name": "Gamis Crinkle Airflow Premium",
+      "price": 125000,
+      "sold_30d": 18500,
       "rating": 4.7,
-      "review_count": 2100,
-      "commission_rate": 14.0,
-      "creator_count": 156,
+      "review_count": 4200,
+      "commission_rate": 12,
+      "creator_count": 310,
+      "affiliate_score": 87,
+      "tier": 1,
       "category": "hijab",
+      "viral_flags": [
+        "TRENDING_HASHTAG"
+      ],
+      "score_breakdown": {
+        "commission": 22,
+        "demand": 23,
+        "velocity": 19,
+        "competition": 14,
+        "quality": 9
+      },
+      "content_strategy": {
+        "format": "Hijab Styling Tutorial + GRWM",
+        "hook": "Gamis crinkle airflow yang lagi viral! Adem banget buat daily",
+        "duration": "30-60 detik",
+        "best_time": "07:00 - 09:00 WIB",
+        "hashtags": [
+          "#GamisViral",
+          "#HijabOOTD",
+          "#CrinkleAirflow",
+          "#MuslimFashion",
+          "#GamisPremium"
+        ]
+      },
+      "product_url": "https://tokopedia.link/example3"
+    },
+    {
+      "id": "prod-004",
+      "name": "Tas Selempang Mini Canvas Aesthetic",
+      "price": 35000,
+      "sold_30d": 28400,
+      "rating": 4.6,
+      "review_count": 6800,
+      "commission_rate": 18,
+      "creator_count": 150,
+      "affiliate_score": 85,
+      "tier": 1,
+      "category": "tas_sepatu",
+      "viral_flags": [
+        "VIRAL_VIDEO",
+        "LOW_COMPETITION"
+      ],
+      "score_breakdown": {
+        "commission": 26,
+        "demand": 25,
+        "velocity": 16,
+        "competition": 11,
+        "quality": 7
+      },
+      "content_strategy": {
+        "format": "What's in My Bag + Outfit Pairing",
+        "hook": "Tas 35rb yang bikin outfit kamu naik level! Canvas aesthetic",
+        "duration": "15-30 detik",
+        "best_time": "18:00 - 20:00 WIB",
+        "hashtags": [
+          "#TasViral",
+          "#CanvasBag",
+          "#AestheticBag",
+          "#TasSelempang",
+          "#FashionAffordable"
+        ]
+      },
+      "product_url": "https://tokopedia.link/example4"
+    },
+    {
+      "id": "prod-005",
+      "name": "Cardigan Rajut Oversize Crop",
+      "price": 75000,
+      "sold_30d": 12600,
+      "rating": 4.7,
+      "review_count": 2800,
+      "commission_rate": 14,
+      "creator_count": 200,
       "affiliate_score": 78,
       "tier": 2,
+      "category": "fashion_wanita",
       "viral_flags": [
         "TRENDING_HASHTAG"
       ],
@@ -232,366 +235,375 @@
         "quality": 8
       },
       "content_strategy": {
-        "format": "Get Ready With Me",
-        "hook": "Gamis ceruty yang bikin kamu tampil elegan setiap hari",
-        "duration": "30-60 detik",
-        "hashtags": [
-          "#GamisCeruty",
-          "#OOTDMuslimah",
-          "#GamisViral",
-          "#BusanaMuslim"
-        ],
-        "best_time": "10:00-12:00 WIB"
-      },
-      "product_url": "https://tokopedia.link/gamis-ceruty-005"
-    },
-    {
-      "id": "prod_006",
-      "name": "Sepatu Sneakers Wanita Casual Import",
-      "price": 149000,
-      "sold_30d": 7600,
-      "rating": 4.5,
-      "review_count": 1890,
-      "commission_rate": 10.0,
-      "creator_count": 98,
-      "category": "tas_sepatu",
-      "affiliate_score": 72,
-      "tier": 2,
-      "viral_flags": [],
-      "score_breakdown": {
-        "commission": 18,
-        "demand": 19,
-        "velocity": 14,
-        "competition": 12,
-        "quality": 9
-      },
-      "content_strategy": {
-        "format": "Mix & Match Outfit",
-        "hook": "Sneakers import 149rb yang cocok untuk semua outfit!",
+        "format": "Mix & Match Outfit Ideas",
+        "hook": "Cardigan rajut oversize ini bisa dipake 5 style berbeda!",
         "duration": "20-30 detik",
+        "best_time": "19:00 - 21:00 WIB",
         "hashtags": [
-          "#SneakersWanita",
-          "#SepatuMurah",
-          "#OOTD",
-          "#CasualStyle"
-        ],
-        "best_time": "17:00-19:00 WIB"
+          "#CardiganRajut",
+          "#OversizeFashion",
+          "#MixAndMatch",
+          "#OOTDIdeas",
+          "#StyleTips"
+        ]
       },
-      "product_url": "https://tokopedia.link/sneakers-wanita-006"
+      "product_url": "https://tokopedia.link/example5"
     },
     {
-      "id": "prod_007",
-      "name": "Anting Mutiara Korea Elegant",
+      "id": "prod-006",
+      "name": "Anting Mutiara Korea Elegant Set 6pcs",
       "price": 25000,
-      "sold_30d": 42000,
-      "rating": 4.4,
-      "review_count": 6700,
-      "commission_rate": 18.0,
-      "creator_count": 430,
-      "category": "aksesoris",
-      "affiliate_score": 82,
+      "sold_30d": 35200,
+      "rating": 4.5,
+      "review_count": 7200,
+      "commission_rate": 22,
+      "creator_count": 95,
+      "affiliate_score": 76,
       "tier": 2,
+      "category": "aksesoris",
       "viral_flags": [
-        "VIRAL_VIDEO"
+        "LOW_COMPETITION"
       ],
       "score_breakdown": {
-        "commission": 27,
-        "demand": 21,
-        "velocity": 16,
-        "competition": 10,
-        "quality": 8
+        "commission": 30,
+        "demand": 18,
+        "velocity": 14,
+        "competition": 8,
+        "quality": 6
       },
       "content_strategy": {
-        "format": "Close-up Product Shot",
-        "hook": "Anting 25rb yang bikin wajah makin tirus dan cantik!",
-        "duration": "10-15 detik",
+        "format": "Close-up Try On + Daily Styling",
+        "hook": "Set anting 25rb isi 6! Elegant banget buat daily atau kondangan",
+        "duration": "15-20 detik",
+        "best_time": "12:00 - 14:00 WIB",
         "hashtags": [
           "#AntingKorea",
           "#AntingMutiara",
           "#AksesorisViral",
-          "#Cantik"
-        ],
-        "best_time": "20:00-22:00 WIB"
+          "#ElegantStyle",
+          "#AntingSet"
+        ]
       },
-      "product_url": "https://tokopedia.link/anting-mutiara-007"
+      "product_url": "https://tokopedia.link/example6"
     },
     {
-      "id": "prod_008",
-      "name": "Blazer Oversize Wanita Korean Style",
-      "price": 225000,
-      "sold_30d": 5400,
+      "id": "prod-007",
+      "name": "Rok Plisket Panjang Premium",
+      "price": 65000,
+      "sold_30d": 9800,
       "rating": 4.6,
-      "review_count": 1200,
-      "commission_rate": 12.0,
-      "creator_count": 87,
-      "category": "fashion_wanita",
-      "affiliate_score": 74,
+      "review_count": 2100,
+      "commission_rate": 13,
+      "creator_count": 175,
+      "affiliate_score": 73,
       "tier": 2,
+      "category": "fashion_wanita",
+      "viral_flags": [],
+      "score_breakdown": {
+        "commission": 22,
+        "demand": 19,
+        "velocity": 14,
+        "competition": 10,
+        "quality": 8
+      },
+      "content_strategy": {
+        "format": "OOTD Casual to Formal Transition",
+        "hook": "Rok plisket 65rb yang bisa buat kerja sampai hangout!",
+        "duration": "20-30 detik",
+        "best_time": "18:00 - 20:00 WIB",
+        "hashtags": [
+          "#RokPlisket",
+          "#OOTDKerja",
+          "#FashionWanita",
+          "#PlisketSkirt",
+          "#CasualToFormal"
+        ]
+      },
+      "product_url": "https://tokopedia.link/example7"
+    },
+    {
+      "id": "prod-008",
+      "name": "Pashmina Ceruty Babydoll Premium",
+      "price": 55000,
+      "sold_30d": 14200,
+      "rating": 4.8,
+      "review_count": 3500,
+      "commission_rate": 11,
+      "creator_count": 280,
+      "affiliate_score": 71,
+      "tier": 2,
+      "category": "hijab",
       "viral_flags": [
         "TRENDING_HASHTAG"
       ],
       "score_breakdown": {
         "commission": 20,
-        "demand": 18,
-        "velocity": 15,
-        "competition": 12,
-        "quality": 9
-      },
-      "content_strategy": {
-        "format": "Office to Hangout Transition",
-        "hook": "Blazer oversize 225rb buat tampil profesional tapi tetap stylish!",
-        "duration": "20-30 detik",
-        "hashtags": [
-          "#BlazerWanita",
-          "#KoreanStyle",
-          "#OOTDKantor",
-          "#FashionKorea"
-        ],
-        "best_time": "07:00-09:00 WIB"
-      },
-      "product_url": "https://tokopedia.link/blazer-oversize-008"
-    },
-    {
-      "id": "prod_009",
-      "name": "Gelang Tangan Emas Titanium Set",
-      "price": 55000,
-      "sold_30d": 15800,
-      "rating": 4.3,
-      "review_count": 3400,
-      "commission_rate": 16.0,
-      "creator_count": 245,
-      "category": "aksesoris",
-      "affiliate_score": 76,
-      "tier": 2,
-      "viral_flags": [
-        "LOW_COMPETITION"
-      ],
-      "score_breakdown": {
-        "commission": 25,
-        "demand": 19,
-        "velocity": 14,
-        "competition": 13,
-        "quality": 5
-      },
-      "content_strategy": {
-        "format": "Haul Video",
-        "hook": "Set gelang titanium 55rb yang nggak akan berubah warna!",
-        "duration": "15-30 detik",
-        "hashtags": [
-          "#GelangTitanium",
-          "#AksesorisViral",
-          "#GelangEmas",
-          "#Jewelry"
-        ],
-        "best_time": "12:00-14:00 WIB"
-      },
-      "product_url": "https://tokopedia.link/gelang-titanium-009"
-    },
-    {
-      "id": "prod_010",
-      "name": "Rok Plisket Panjang Premium",
-      "price": 89000,
-      "sold_30d": 9200,
-      "rating": 4.7,
-      "review_count": 2800,
-      "commission_rate": 11.0,
-      "creator_count": 178,
-      "category": "fashion_wanita",
-      "affiliate_score": 68,
-      "tier": 3,
-      "viral_flags": [],
-      "score_breakdown": {
-        "commission": 19,
-        "demand": 17,
+        "demand": 21,
         "velocity": 13,
         "competition": 10,
-        "quality": 9
+        "quality": 7
       },
       "content_strategy": {
-        "format": "Styling Tips Video",
-        "hook": "Rok plisket 89rb yang bisa dipakai ke kantor dan hangout!",
-        "duration": "20-30 detik",
+        "format": "Hijab Tutorial Simple Look",
+        "hook": "Pashmina ceruty babydoll paling lembut! Tutorial 3 style simpel",
+        "duration": "30-45 detik",
+        "best_time": "07:00 - 09:00 WIB",
         "hashtags": [
-          "#RokPlisket",
-          "#FashionWanita",
-          "#OOTDHijab",
-          "#StyleTips"
-        ],
-        "best_time": "17:00-19:00 WIB"
+          "#PashminaCeruty",
+          "#HijabTutorial",
+          "#BabydollHijab",
+          "#HijabSimple",
+          "#HijabDaily"
+        ]
       },
-      "product_url": "https://tokopedia.link/rok-plisket-010"
+      "product_url": "https://tokopedia.link/example8"
     },
     {
-      "id": "prod_011",
-      "name": "Cardigan Rajut Crop Korean",
-      "price": 75000,
-      "sold_30d": 11200,
+      "id": "prod-009",
+      "name": "Sneakers Wanita Korean Chunky Platform",
+      "price": 159000,
+      "sold_30d": 7600,
       "rating": 4.5,
-      "review_count": 2300,
-      "commission_rate": 10.0,
-      "creator_count": 156,
-      "category": "fashion_wanita",
-      "affiliate_score": 65,
-      "tier": 3,
+      "review_count": 1800,
+      "commission_rate": 10,
+      "creator_count": 120,
+      "affiliate_score": 68,
+      "tier": 2,
+      "category": "tas_sepatu",
       "viral_flags": [],
       "score_breakdown": {
-        "commission": 17,
+        "commission": 18,
         "demand": 18,
-        "velocity": 12,
+        "velocity": 14,
         "competition": 10,
         "quality": 8
       },
       "content_strategy": {
-        "format": "Layering Style Video",
-        "hook": "Cardigan rajut crop 75rb yang bikin outfit makin aesthetic!",
-        "duration": "15-20 detik",
+        "format": "Unboxing + On-feet Review",
+        "hook": "Sneakers chunky Korea 159rb, kualitasnya setara brand mahal?",
+        "duration": "30-45 detik",
+        "best_time": "19:00 - 21:00 WIB",
         "hashtags": [
-          "#CardiganRajut",
-          "#KoreanFashion",
-          "#CropTop",
-          "#AestheticOOTD"
-        ],
-        "best_time": "19:00-21:00 WIB"
+          "#SneakersKorea",
+          "#ChunkyShoes",
+          "#SepatuViral",
+          "#PlatformSneakers",
+          "#ShoeReview"
+        ]
       },
-      "product_url": "https://tokopedia.link/cardigan-rajut-011"
+      "product_url": "https://tokopedia.link/example9"
     },
     {
-      "id": "prod_012",
-      "name": "Sandal Platform Wanita Jelly",
-      "price": 65000,
-      "sold_30d": 14500,
-      "rating": 4.2,
-      "review_count": 3100,
-      "commission_rate": 8.0,
-      "creator_count": 67,
-      "category": "tas_sepatu",
-      "affiliate_score": 58,
+      "id": "prod-010",
+      "name": "Gelang Titanium Rose Gold Anti Luntur",
+      "price": 39000,
+      "sold_30d": 19500,
+      "rating": 4.4,
+      "review_count": 4100,
+      "commission_rate": 19,
+      "creator_count": 85,
+      "affiliate_score": 65,
       "tier": 3,
-      "viral_flags": [],
-      "score_breakdown": {
-        "commission": 14,
-        "demand": 16,
-        "velocity": 12,
-        "competition": 9,
-        "quality": 7
-      },
-      "content_strategy": {
-        "format": "Daily Vlog Insert",
-        "hook": "Sandal jelly 65rb yang empuk dan tahan air!",
-        "duration": "10-15 detik",
-        "hashtags": [
-          "#SandalJelly",
-          "#SandalWanita",
-          "#SepatuMurah",
-          "#SummerVibes"
-        ],
-        "best_time": "12:00-14:00 WIB"
-      },
-      "product_url": "https://tokopedia.link/sandal-platform-012"
-    },
-    {
-      "id": "prod_013",
-      "name": "Cincin Couple Titanium Anti Luntur",
-      "price": 42000,
-      "sold_30d": 8700,
-      "rating": 4.1,
-      "review_count": 1900,
-      "commission_rate": 15.0,
-      "creator_count": 89,
       "category": "aksesoris",
-      "affiliate_score": 62,
-      "tier": 3,
       "viral_flags": [
         "LOW_COMPETITION"
       ],
       "score_breakdown": {
-        "commission": 23,
-        "demand": 14,
-        "velocity": 10,
-        "competition": 12,
-        "quality": 3
+        "commission": 27,
+        "demand": 16,
+        "velocity": 12,
+        "competition": 6,
+        "quality": 4
       },
       "content_strategy": {
-        "format": "Couple Content",
-        "hook": "Cincin couple 42rb yang nggak bikin iritasi kulit!",
-        "duration": "15-20 detik",
+        "format": "Styling Tips + Water Test",
+        "hook": "Gelang 39rb anti luntur? Aku rendam 24 jam, hasilnya...",
+        "duration": "15-30 detik",
+        "best_time": "12:00 - 14:00 WIB",
         "hashtags": [
-          "#CincinCouple",
-          "#CincinTitanium",
-          "#CoupleGoals",
-          "#Romantis"
-        ],
-        "best_time": "20:00-22:00 WIB"
+          "#GelangTitanium",
+          "#RoseGold",
+          "#AntiLuntur",
+          "#AksesorisViral",
+          "#GelangKorea"
+        ]
       },
-      "product_url": "https://tokopedia.link/cincin-couple-013"
+      "product_url": "https://tokopedia.link/example10"
     },
     {
-      "id": "prod_014",
-      "name": "Khimar Syari Pet Antem Jersey",
-      "price": 55000,
-      "sold_30d": 6200,
-      "rating": 4.4,
+      "id": "prod-011",
+      "name": "Blouse Satin Lengan Balon Korea",
+      "price": 79000,
+      "sold_30d": 8400,
+      "rating": 4.3,
       "review_count": 1500,
-      "commission_rate": 9.0,
-      "creator_count": 45,
-      "category": "hijab",
-      "affiliate_score": 48,
-      "tier": 4,
+      "commission_rate": 12,
+      "creator_count": 140,
+      "affiliate_score": 61,
+      "tier": 3,
+      "category": "fashion_wanita",
       "viral_flags": [],
       "score_breakdown": {
-        "commission": 15,
-        "demand": 12,
-        "velocity": 9,
+        "commission": 20,
+        "demand": 16,
+        "velocity": 11,
+        "competition": 8,
+        "quality": 6
+      },
+      "content_strategy": {
+        "format": "Office Look OOTD",
+        "hook": "Blouse satin Korea yang bikin kamu keliatan mahal di kantor!",
+        "duration": "15-20 detik",
+        "best_time": "07:00 - 09:00 WIB",
+        "hashtags": [
+          "#BlouseSatin",
+          "#OfficeLook",
+          "#KoreaStyle",
+          "#WorkOOTD",
+          "#BlouseKorea"
+        ]
+      },
+      "product_url": "https://tokopedia.link/example11"
+    },
+    {
+      "id": "prod-012",
+      "name": "Inner Hijab Ciput Jersey Premium",
+      "price": 15000,
+      "sold_30d": 42000,
+      "rating": 4.6,
+      "review_count": 8500,
+      "commission_rate": 8,
+      "creator_count": 350,
+      "affiliate_score": 58,
+      "tier": 3,
+      "category": "hijab",
+      "viral_flags": [],
+      "score_breakdown": {
+        "commission": 12,
+        "demand": 22,
+        "velocity": 12,
         "competition": 7,
         "quality": 5
       },
       "content_strategy": {
-        "format": "Review Jujur",
-        "hook": "Khimar jersey 55rb yang adem dan nggak gerah!",
-        "duration": "30-45 detik",
+        "format": "Comparison Review + Comfort Test",
+        "hook": "Inner hijab 15rb yang paling nyaman! Dibanding brand lain gimana?",
+        "duration": "20-30 detik",
+        "best_time": "07:00 - 09:00 WIB",
         "hashtags": [
-          "#KhimarSyari",
-          "#HijabJersey",
-          "#OOTDSyari",
-          "#MuslimFashion"
-        ],
-        "best_time": "07:00-09:00 WIB"
+          "#InnerHijab",
+          "#CiputJersey",
+          "#HijabDaily",
+          "#InnerPremium",
+          "#HijabComfort"
+        ]
       },
-      "product_url": "https://tokopedia.link/khimar-syari-014"
+      "product_url": "https://tokopedia.link/example12"
     },
     {
-      "id": "prod_015",
-      "name": "Celana Kulot Plisket Highwaist",
-      "price": 95000,
-      "sold_30d": 4300,
-      "rating": 4.3,
-      "review_count": 980,
-      "commission_rate": 7.0,
-      "creator_count": 34,
-      "category": "fashion_wanita",
-      "affiliate_score": 42,
-      "tier": 4,
+      "id": "prod-013",
+      "name": "Sandal Flat Jelly Bow Transparan",
+      "price": 29000,
+      "sold_30d": 16800,
+      "rating": 4.2,
+      "review_count": 3200,
+      "commission_rate": 16,
+      "creator_count": 70,
+      "affiliate_score": 55,
+      "tier": 3,
+      "category": "tas_sepatu",
       "viral_flags": [],
       "score_breakdown": {
-        "commission": 12,
-        "demand": 11,
-        "velocity": 8,
-        "competition": 6,
-        "quality": 5
+        "commission": 24,
+        "demand": 14,
+        "velocity": 10,
+        "competition": 4,
+        "quality": 3
       },
       "content_strategy": {
-        "format": "Try-On Haul",
-        "hook": "Celana kulot 95rb yang bikin kaki terlihat lebih panjang!",
-        "duration": "20-30 detik",
+        "format": "Outfit Matching + Close-up",
+        "hook": "Sandal jelly 29rb yang lucu banget buat daily!",
+        "duration": "15-20 detik",
+        "best_time": "18:00 - 20:00 WIB",
         "hashtags": [
-          "#CelanaKulot",
-          "#HighwaistPants",
-          "#OOTD",
-          "#FashionMurah"
-        ],
-        "best_time": "17:00-19:00 WIB"
+          "#SandalJelly",
+          "#SandalViral",
+          "#FlatShoes",
+          "#SandalLucu",
+          "#JellyShoes"
+        ]
       },
-      "product_url": "https://tokopedia.link/celana-kulot-015"
+      "product_url": "https://tokopedia.link/example13"
+    },
+    {
+      "id": "prod-014",
+      "name": "Kacamata Fashion Bingkai Besar Retro",
+      "price": 22000,
+      "sold_30d": 11200,
+      "rating": 4.1,
+      "review_count": 2400,
+      "commission_rate": 17,
+      "creator_count": 60,
+      "affiliate_score": 48,
+      "tier": 4,
+      "category": "aksesoris",
+      "viral_flags": [],
+      "score_breakdown": {
+        "commission": 25,
+        "demand": 10,
+        "velocity": 7,
+        "competition": 3,
+        "quality": 3
+      },
+      "content_strategy": {
+        "format": "Face Shape Guide + Try On",
+        "hook": "Kacamata retro 22rb, cocok buat semua bentuk wajah?",
+        "duration": "15-20 detik",
+        "best_time": "12:00 - 14:00 WIB",
+        "hashtags": [
+          "#KacamataRetro",
+          "#FashionGlasses",
+          "#AksesorisViral",
+          "#RetroStyle",
+          "#Kacamata"
+        ]
+      },
+      "product_url": "https://tokopedia.link/example14"
+    },
+    {
+      "id": "prod-015",
+      "name": "Crop Top Knit Basic Tanpa Lengan",
+      "price": 42000,
+      "sold_30d": 6200,
+      "rating": 4.0,
+      "review_count": 980,
+      "commission_rate": 11,
+      "creator_count": 55,
+      "affiliate_score": 42,
+      "tier": 4,
+      "category": "fashion_wanita",
+      "viral_flags": [],
+      "score_breakdown": {
+        "commission": 18,
+        "demand": 10,
+        "velocity": 6,
+        "competition": 4,
+        "quality": 4
+      },
+      "content_strategy": {
+        "format": "Layering Ideas + OOTD",
+        "hook": "Crop top knit basic 42rb, bisa jadi inner cardigan atau standalone!",
+        "duration": "15-20 detik",
+        "best_time": "19:00 - 21:00 WIB",
+        "hashtags": [
+          "#CropTop",
+          "#KnitBasic",
+          "#LayeringOOTD",
+          "#BasicFashion",
+          "#CropTopKnit"
+        ]
+      },
+      "product_url": "https://tokopedia.link/example15"
     }
   ]
 }
