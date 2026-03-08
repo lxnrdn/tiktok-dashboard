@@ -1,27 +1,29 @@
-# TikTok Fashion Trend Tracker Dashboard
+# TikTok Fashion Trend Tracker
 
-Dashboard untuk monitoring produk trending fashion & aksesoris di TikTok Shop Indonesia. Dibangun untuk membantu TikTok affiliator menemukan produk dengan potensi komisi tertinggi.
-
-## Features
-- Overview dashboard dengan stats cards dan charts
-- Tabel produk trending yang bisa di-sort
-- Detail produk dengan score breakdown (radar chart)
-- Category breakdown (pie chart)
-- Daily trend chart
-- Mobile responsive
-- Dark theme dengan TikTok-style branding
+Dashboard analisis produk trending fashion TikTok Shop Indonesia untuk affiliator.
 
 ## Tech Stack
-- Next.js 14 (App Router)
-- TypeScript
-- Tailwind CSS
-- Recharts
-- Lucide React Icons
+- **Framework**: Next.js 14 (App Router)
+- **Styling**: Tailwind CSS
+- **Charts**: Recharts
+- **Icons**: Lucide React
+- **Language**: TypeScript
+
+## Features
+- Overview dashboard with stats cards, category pie chart, and daily trend line chart
+- Trending products table with search, filter by tier/category, and sort
+- Product detail view with radar score breakdown and content strategy
+- Mobile responsive dark theme UI
+- Indonesian Rupiah formatting
 
 ## Getting Started
+
 ```bash
 npm install
 npm run dev
 ```
 
-Open http://localhost:3000
+Open [http://localhost:3000](http://localhost:3000)
+
+## Data
+Reports are stored as JSON in `src/data/`. The dashboard reads from `sample-report.json` by default.
