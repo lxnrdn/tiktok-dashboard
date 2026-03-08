@@ -10,8 +10,8 @@ export interface ContentStrategy {
   format: string;
   hook: string;
   duration: string;
-  hashtags: string[];
   best_time: string;
+  hashtags: string[];
 }
 
 export interface Product {
@@ -23,9 +23,9 @@ export interface Product {
   review_count: number;
   commission_rate: number;
   creator_count: number;
-  category: string;
   affiliate_score: number;
   tier: number;
+  category: string;
   viral_flags: string[];
   score_breakdown: ScoreBreakdown;
   content_strategy: ContentStrategy;
@@ -58,13 +58,5 @@ export interface ReportData {
   products: Product[];
 }
 
-export type SortField =
-  | "affiliate_score"
-  | "name"
-  | "price"
-  | "sold_30d"
-  | "rating"
-  | "commission_rate"
-  | "tier";
-
+export type SortField = "name" | "price" | "sold_30d" | "rating" | "commission_rate" | "affiliate_score" | "tier";
 export type SortDirection = "asc" | "desc";
